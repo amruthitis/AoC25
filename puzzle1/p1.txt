@@ -21,4 +21,4 @@ counter to calculate the no.of times the end reaches zero index:
 
 
 
-create a class to accept the input file and then a method to break the password
+create a class to accept the input file and break the password
