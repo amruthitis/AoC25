@@ -1,0 +1,24 @@
+values are from 0 to 99
+size of 100
+
+L - left turn - decrements to the lower value
+R - right turn - increments to the higher value
+
+circular queue of size 100
+
+the pointer is at 50 at the start: 
+    start at 0 and end is at 50
+
+counter to calculate the no.of times the end reaches zero index:
+ if end == o or end == start then counter++
+
+ return counter
+
+ input - input file
+ reads each line breaks the string into 2 parts - string part and intege part
+ string part indicates decrements or increments and the integer part indicates the value that is supposed to be 
+ incremented or decremented.
+
+
+
+create a class to accept the input file and then a method to break the password
