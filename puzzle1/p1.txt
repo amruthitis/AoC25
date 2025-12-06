@@ -22,3 +22,14 @@ counter to calculate the no.of times the end reaches zero index:
 
 
 create a class to accept the input file and break the password
+
+
+
+Part 2 
+
+Iterate the pointer value times (if that make sense)
+if the indicator is L - iterate through the arr value times and decrement the pointer and note the no of times the pointer hits 0
+vice versa for R - increment the pointer
+
+make sure the pointer resets to 99 after trying to decrement below 0
+and to 0 when the pointer tries to increment above 99
